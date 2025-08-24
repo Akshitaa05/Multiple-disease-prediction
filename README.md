@@ -29,10 +29,33 @@ Built for simplicity, speed, and usability, this tool is perfect for healthcare 
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
+🔹 **Diabetes Prediction**  
+![Diabetes](screenshots/Screenshot%202025-07-25%20204932.png)  
+
+🔹 **Heart Disease Prediction**  
+![Heart Disease](screenshots/Screenshot%202025-07-25%20204938.png)  
+
+🔹 **Parkinson’s Disease Prediction**  
+![Parkinsons](screenshots/Screenshot%202025-07-25%20205224.png)  
+
+🔹 **Medical Report PDF Generation**  
+![PDF Report](screenshots/Screenshot%202025-07-25%20210636.png)  
 
 ---
 
 ## 📂 Project Structure
 
+```text
+main.py                        # Streamlit app
+diabetes_model.sav             # Trained SVM model
+heart_model.sav                # Trained Logistic Regression model
+parkinsons_model.sav           # Trained SVM model
+screenshots/                   # App UI screenshots
+├── Screenshot 2025-07-25 204932.png
+├── Screenshot 2025-07-25 204938.png
+├── Screenshot 2025-07-25 205224.png
+└── Screenshot 2025-07-25 210636.png
+requirements.txt               # Dependencies
+README.md                      # Project documentation
