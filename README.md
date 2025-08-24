@@ -38,7 +38,7 @@ Built for simplicity, speed, and usability, this tool is perfect for healthcare 
 ![Heart Disease](screenshots/Screenshot%202025-07-25%20204932.png)  
 
 🔹 **Parkinson’s Disease Prediction**  
-![Parkinsons](screenshots/Screenshot%202025-07-25%202049398.png)  
+![Parkinsons](screenshots/Screenshot%202025-07-25%20204938.png)  
 
 🔹 **Medical Report PDF Generation**  
 ![PDF Report](screenshots/Screenshot%202025-07-25%20205224.png)  
